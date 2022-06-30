@@ -1,6 +1,9 @@
 # Module_20_Challenge
 Smart Contract Using Solidity
 
+
+
+---
 ## Instructions
 The steps for this Challenge are divided into the following sections:
 
@@ -76,3 +79,15 @@ Remembering how to convert ether to wei and vice versa can be challenging. So, y
 
 Once you’ve successfully deposited funds into your contract, test the contract’s withdrawal functionality by withdrawing 5 ether into accountOne and 10 ether into accountTwo. After each transaction, use the contractBalance function to verify that the funds were withdrawn from your contract. Also, use the lastToWithdraw and lastWithdrawAmount functions to verify that the address and amount were correct.
 
+---
+
+## Contributors
+
+* Brought to you by Olga Koryachek.
+* Email: olgakoryachek@live.com
+* [LinkedIn](https://www.linkedin.com/in/olga-koryachek-a74b1877/?msgOverlay=true "LinkedIn")
+
+---
+## License
+
+Licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
